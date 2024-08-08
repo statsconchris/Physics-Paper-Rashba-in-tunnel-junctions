@@ -6,3 +6,5 @@
 tunnel junctions in the presence of Rashba spin-orbit coupling. This model permits the direct
 calculation of the anomalous and spin Hall effects, the anisotropic tunneling magnetoresistance, the
 tunneling anisotropic magnetoresistance, and the Rashba torque.*
+
+
