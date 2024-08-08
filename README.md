@@ -1,4 +1,4 @@
-# Physics-Paper-Rashba-in-tunnel-junctions
+# Physics Paper: Rashba-in-tunnel-junctions
 Tools: Fortran + libcuba.a
 
 Abstract:
